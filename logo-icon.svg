@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="800" height="800" role="img" aria-label="TRASHFORMERS logo"><circle cx="100" cy="100" r="98" fill="#19372D"/>
+<g fill="none" stroke="#6FA77A" stroke-width="8" stroke-linecap="round"><path d="M149.3 37.0 A80 80 0 0 1 149.3 163.0"/><path d="M50.7 163.0 A80 80 0 0 1 50.7 37.0"/></g>
+<g fill="#6FA77A" stroke="#6FA77A" stroke-width="2" stroke-linejoin="round"><path d="M137.4 172.3 L156.0 171.7 L142.5 154.4Z"/><path d="M62.6 27.7 L44.0 28.3 L57.5 45.6Z"/></g>
+<path d="M100 66 C100 58 99.5 52 98.5 47" fill="none" stroke="#6FA77A" stroke-width="4" stroke-linecap="round"/>
+<path d="M99 54 C88 56 79 50 76 39 C88 37 97 43 99 54Z" fill="#9AD0A0"/>
+<path d="M99 49 C101 38 110 30 123 30 C124 43 115 50 99 49Z" fill="#6FA77A"/>
+<rect x="64" y="64" width="72" height="10" rx="4" fill="#D5E5D4"/>
+<rect x="54" y="92" width="10" height="24" rx="3" fill="#6FA77A"/>
+<rect x="136" y="92" width="10" height="24" rx="3" fill="#6FA77A"/>
+<path d="M72 74H128L138 84V128L128 138H72L62 128V84Z" fill="#FAFAF6"/>
+<path d="M71 89H129V104L121 111H79L71 104Z" fill="#19372D"/>
+<rect x="80" y="94" width="15" height="7" rx="3.5" fill="#9AD0A0"/>
+<rect x="105" y="94" width="15" height="7" rx="3.5" fill="#9AD0A0"/>
+<g stroke="#19372D" stroke-opacity=".3" stroke-width="3.5" stroke-linecap="round"><path d="M84 121h32M84 129h32"/></g>
+<rect x="90" y="138" width="20" height="8" fill="#D5E5D4"/>
+<path d="M64 163L76 146H124L136 163Z" fill="#6FA77A"/>
+<path d="M100 149.5 L105 158 H95Z" fill="#FAFAF6"/></svg>
